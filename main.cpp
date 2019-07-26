@@ -3,6 +3,8 @@
 #include "HybridCar.hpp"
 #include <iostream>
 
+// Foo
+
 int main()
 {
     std::cout << std::endl << "OPEL" << std::endl;
